@@ -1,0 +1,11 @@
+{
+  "name": "work-digital-tasks",
+  "version": "1.0.0",
+  "description": "3 challenges, 3 functions ->  run it in node.js ",
+  "main": "functions.js",
+  "scripts": {
+    "start": "node functions.js"
+  },
+  "author": "Antonin Jech",
+  "license": "ISC"
+}
